@@ -18,4 +18,4 @@ This is an icon pack for the Miyoo Mini
 #
 # Now your Retroarch menu should display the new icons.
 ## if not check if you updated to the latest Miyoo firmware
-## and installed the Onion sd files correctly 
+## and installed the latest version of Onion on your sd card correctly 
