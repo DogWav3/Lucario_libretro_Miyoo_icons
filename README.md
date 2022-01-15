@@ -20,10 +20,10 @@ This is an icon pack for the Miyoo Mini
 ## if not check if you updated to the latest Miyoo firmware
 ## and installed the latest version of Onion on your sd card correctly 
 
-█       ▄   ▄█▄    ██   █▄▄▄▄ ▄█ ████▄ 
-█        █  █▀ ▀▄  █ █  █  ▄▀ ██ █   █ 
-█     █   █ █   ▀  █▄▄█ █▀▀▌  ██ █   █ 
-███▄  █   █ █▄  ▄▀ █  █ █  █  ▐█ ▀████ 
-    ▀ █▄ ▄█ ▀███▀     █   █    ▐       
-       ▀▀▀           █   ▀             
-                    ▀                  
+#█       ▄   ▄█▄    ██   █▄▄▄▄ ▄█ ████▄ 
+#█        █  █▀ ▀▄  █ █  █  ▄▀ ██ █   █ 
+#█     █   █ █   ▀  █▄▄█ █▀▀▌  ██ █   █ 
+#███▄  █   █ █▄  ▄▀ █  █ █  █  ▐█ ▀████ 
+#    ▀ █▄ ▄█ ▀███▀     █   █    ▐       
+#       ▀▀▀           █   ▀             
+#                    ▀                  
