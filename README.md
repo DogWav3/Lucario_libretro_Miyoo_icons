@@ -5,8 +5,10 @@ This is an icon pack for the Miyoo Mini
 # How to Install:
 ## -Be on the Latest Miyoo ofw update 20220108 https://lemiyoo-cn.translate.goog/upgrade/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US
 #
-## -Install Onion https://github.com/jimgraygit/OnionOS/releases/tag/20220110
-## -Or TAKI SD CARD https://github.com/Takiiiiiiii/Miyoo-Mini
+## -Install one of the listed sd card packs
+## OnionOS https://github.com/jimgraygit/OnionOS/releases/tag/20220110
+## TAKI SD https://github.com/Takiiiiiiii/Miyoo-Mini/releases/tag/v1.0SD
+## Better SD https://github.com/nicosensei/miyoo-mini-better-sd-card/releases/tag/20220115
 #
 ## -Download the latest release file for your sd pack of choice https://github.com/DogWav3/Lucario_libretro_Miyoo_icons/tags
 #
