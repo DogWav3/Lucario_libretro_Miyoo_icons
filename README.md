@@ -6,6 +6,7 @@ This is an icon pack for the Miyoo Mini
 ## -Be on the Latest Miyoo ofw update 20220108 https://lemiyoo-cn.translate.goog/upgrade/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US
 #
 ## -Install Onion https://github.com/jimgraygit/OnionOS/releases/tag/20220110
+## -Or TAKI SD CARD https://github.com/Takiiiiiiii/Miyoo-Mini
 #
 ## -Download the latest release file
 #
