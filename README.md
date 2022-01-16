@@ -18,9 +18,8 @@ This is an icon pack for the Miyoo Mini
 #
 ## -put your sd card back into the Miyoo mini and start up the handheld
 #
-#
 # Now your Retroarch menu should display the new icons.
-## if not, check if you updated to the latest Miyoo firmware and installed your "sd card pack" correctly 
+## if not, check if you updated to the latest Miyoo Mini firmware and installed your "sd card pack" correctly 
 ![screenshot05](https://user-images.githubusercontent.com/25871524/149636596-33e8815b-7b9a-49df-8e21-0be2e489e80f.png)
 ![screenshot00](https://user-images.githubusercontent.com/25871524/149636597-95c84191-23dc-4de2-9f60-837a91c45730.png)
 ![screenshot01](https://user-images.githubusercontent.com/25871524/149636598-060dd54f-fc33-4f0b-81d5-82b7a3a16dd0.png)
