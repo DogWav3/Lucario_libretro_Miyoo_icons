@@ -8,7 +8,7 @@ This is an icon pack for the Miyoo Mini
 ## -Install Onion https://github.com/jimgraygit/OnionOS/releases/tag/20220110
 ## -Or TAKI SD CARD https://github.com/Takiiiiiiii/Miyoo-Mini
 #
-## -Download the latest release file for your sd pack of choice
+## -Download the latest release file for your sd pack of choice https://github.com/DogWav3/Lucario_libretro_Miyoo_icons/tags
 #
 ## -extract the zip file 
 #
