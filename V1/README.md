@@ -1,4 +1,4 @@
-# Lucario libretro Miyoo icons
+# Lucario libretro Miyoo icons (OLD)
 
 This is an icon pack for the Miyoo Mini 
 
@@ -6,7 +6,7 @@ This is an icon pack for the Miyoo Mini
 ## -Be on the Latest Miyoo ofw update 20220108 https://lemiyoo-cn.translate.goog/upgrade/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US
 #
 ## -Install one of the listed "sd card packs"
-## OnionOS https://github.com/jimgraygit/OnionOS/releases/tag/20220110
+## OnionOS 20220110 only https://github.com/jimgraygit/OnionOS/releases/tag/20220110
 ## TAKI SD https://github.com/Takiiiiiiii/Miyoo-Mini/releases/tag/v1.0SD
 ## Better SD https://github.com/nicosensei/miyoo-mini-better-sd-card/releases/tag/20220115
 #
