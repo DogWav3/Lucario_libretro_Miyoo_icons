@@ -8,7 +8,7 @@ This is an icon pack for the Miyoo Mini
 ## -The Current Version of the Icon Pack is Included in the ONION SD-Card Pack"
 ## Onion https://github.com/jimgraygit/Onion
 #
-## This Repo is Hosting All Icons Currently made by me + Beta and updates of icon pack aswell as the Old V1
+## This Repo is Hosting All Icons Currently made by me + old icon pack, Updates of icon pack aswell as the Old V1
 #
 ## Contact Lucario#5436 on Discord for help
 #
