@@ -1,4 +1,4 @@
-# Lucario libretro Miyoo icons
+# Lucario Miyoo Mini libretro(RApp) icons
 
 # This Icon Pack is Currently included into Onion
 ## https://github.com/jimgraygit/Onion
